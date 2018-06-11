@@ -6,7 +6,7 @@ import sun from './sun.png';
 import Isaac from './Isaac.jpg';
 import Sarah from './Sarah.jpg';
 import './App.css';
-
+import Amara from './Components/Amara.js';
 
 
 
