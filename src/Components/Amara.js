@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Amarapic from '../Amarapic.jpg';
-import './Amara.css';
+import './Components/Amara.css';
 
 
 export class Amara extends React.Component {
